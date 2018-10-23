@@ -1,5 +1,6 @@
 package kata3;
 
+
 import java.awt.Dimension;
 import javax.swing.JPanel;
 import org.jfree.chart.ChartFactory;
